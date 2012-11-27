@@ -14,12 +14,16 @@ They sell goods and services and get 50%.
 
 ## Products
 
-* Kids Bikes...
 * iBert
 * Chariot Carrier
+* Bike pumps
+
+### Bikes
+
+* Kangaroo/Walaroo
+* Kids Bikes... ??
 * Yuba
 * XtraCycle
-* Bike pumps
 
 ## Free services included with bike purchase
 
@@ -43,3 +47,10 @@ They sell goods and services and get 50%.
 ## Posible services
 
 * Bike road side assistance.
+* Pedicab
+* Bike rentals
+
+     Surly Trailer
+     Fast road bikes
+     Bionx
+
