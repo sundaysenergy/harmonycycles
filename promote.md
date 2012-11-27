@@ -17,6 +17,8 @@ They sell goods and services and get 50%.
 * iBert
 * Chariot Carrier
 * Bike pumps
+* Surly cargo Trailer
+* Bionx or motor kits
 
 ### Bikes
 
@@ -44,13 +46,8 @@ They sell goods and services and get 50%.
 * Businesses that use bikes for doing stuff!
 * Tweed riders
 
-## Posible services
+## Posible (future) services/markets
 
 * Bike road side assistance.
 * Pedicab
 * Bike rentals
-
-     Surly Trailer
-     Fast road bikes
-     Bionx
-
